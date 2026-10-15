@@ -1,0 +1,11 @@
+{
+  "org": "astropy",
+  "repo": "pytest-arraydiff",
+  "versions": [
+    {
+      "commit": "12e95c06cd1ef64e34200becc5cd5b81eefb5bdf",
+      "tag": "",
+      "parsed_at": "2026-10-15T21:09:27.560230+00:00"
+    }
+  ]
+}

@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/astropy/pytest-arraydiff/commit/12e95c06cd1ef64e34200becc5cd5b81eefb5bdf",
       "git:hexsha": "12e95c06cd1ef64e34200becc5cd5b81eefb5bdf",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/astropy/pytest-arraydiff/commit/b5d4bec2fbbf3bb404ad1322fa13e8420558e09d",

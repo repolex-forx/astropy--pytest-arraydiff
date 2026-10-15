@@ -1,0 +1,39 @@
+{
+  "manifest_version": "1.0",
+  "org": "astropy",
+  "repo": "pytest-arraydiff",
+  "versions": [
+    {
+      "commit": "12e95c06cd1ef64e34200becc5cd5b81eefb5bdf",
+      "parsed_at": "2026-10-15T21:06:41.098529+00:00",
+      "filetree": "filetree/12e95c06cd1ef64e34200becc5cd5b81eefb5bdf.nq.gz",
+      "blobs": [
+        "blob/72e56d177c073b534b78ffc302721b5c1f4c645f.nq.gz",
+        "blob/8b8ebcc690eccac11585517c67b0af23b63cf444.nq.gz",
+        "blob/93b22c3b0cef07613902b8acfa6470c2e3a3199e.nq.gz",
+        "blob/ec8a646cbee9bc34ebb8bfb9e070376224117cfd.nq.gz",
+        "blob/fca8de1469e9e22bd12062258da1126d0283ebdd.nq.gz",
+        "blob/f345de56381c996f9f65e162b3dc3ad3e52db85b.nq.gz",
+        "blob/3d752e0c6f6c8ecde3540048e4c8ca25aae8db95.nq.gz",
+        "blob/1e60a17eac0a832adea27ed7f0e3198639a9bc13.nq.gz",
+        "blob/36efcb109dd5aeae31b01804865641963c8a25ee.nq.gz",
+        "blob/9fab1aecec0b5b4ebc8f9fbcacbf001d054bd68d.nq.gz",
+        "blob/e77c5535ab04549ef332c4106b3a0912de396dd7.nq.gz",
+        "blob/6d955cdefc652bb831a22866f557437f8dd5dc48.nq.gz",
+        "blob/7e17ccd397263814b1dfadc20c7994f0d913448f.nq.gz",
+        "blob/c6481d5f740462ec9fd3edcb32aa56806e316c77.nq.gz",
+        "blob/37f21a54b050478f9dd8a0c88dfabe27ab907dfd.nq.gz",
+        "blob/b507b35474ebf2eb9aeb41a0a0b918e0c6c1464b.nq.gz",
+        "blob/6b5ccefab1a9297df4c6d1a30881dd90726485c5.nq.gz",
+        "blob/49bbd47f40d5758236b8a244ac5c5ec6f41559d1.nq.gz",
+        "blob/31fbcad26fadcfb2c5d009517dc99796f0397803.nq.gz",
+        "blob/2e452d9818fac75f748a22a4146e8e2f3cb8de85.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
